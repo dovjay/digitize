@@ -5,7 +5,7 @@ let result = 0
 let string = ''
 
 rl.question("Masukan batas : ", function (input) {
-    hasilAkhir = fibonacci(input)
+    fibonacci(input)
     for (let index = 0; index < memo.length; index++) {
         if (memo[index] === undefined) {
             continue
@@ -36,4 +36,3 @@ function fibonacci(input) {
     memo[input] = result
     return result
 }
-

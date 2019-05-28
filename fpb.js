@@ -1,8 +1,5 @@
 var readline = require('readline')
 var rl = readline.createInterface(process.stdin, process.stdout)
-var hasil = 1
-var last = 0
-var first = 0
 var memo = []
 var string = ''
 

@@ -1,0 +1,1 @@
+## Saya lebih suka learning by doing , kenapa saya bicara seperti itu ? karena hampir semua framework sama, dan yang paling penting itu bahasa pemrogramanya bukan frameworknya, jika dasar bahasa pemrogramanya bisa, maka FW apapun bisa

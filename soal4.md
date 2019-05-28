@@ -1,0 +1,2 @@
+## Perbedaan no sql dengan sql yaitu tidak adanya relasi pada nosql dan tidak ada join table
+## NoSQL adalah database yang tidak menggunakan relasi antar table dan tidak menyimpan format layaknya Relational Database
